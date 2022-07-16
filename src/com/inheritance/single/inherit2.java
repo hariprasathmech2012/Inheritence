@@ -4,9 +4,11 @@ package com.inheritance.single;
 		
 		public static void main(String args[])
 		{
-     
+
 			System.out.println("hari");
 			System.out.println("Test 3 work done");
+			System.out.println("arun");
+			System.out.println("test 4 work done");
 			 inherit1 x=new inherit1();
 			 System.out.println(x.color);
 			 System.out.println(x.flower);
